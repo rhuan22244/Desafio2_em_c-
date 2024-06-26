@@ -12,3 +12,4 @@ C:\Users\rhuan\OneDrive\Desktop\Veiculos\obj\Debug\net8.0\refint\Veiculos.dll
 C:\Users\rhuan\OneDrive\Desktop\Veiculos\obj\Debug\net8.0\Veiculos.pdb
 C:\Users\rhuan\OneDrive\Desktop\Veiculos\obj\Debug\net8.0\Veiculos.genruntimeconfig.cache
 C:\Users\rhuan\OneDrive\Desktop\Veiculos\obj\Debug\net8.0\ref\Veiculos.dll
+C:\Users\rhuan\OneDrive\Desktop\Veiculos\obj\Debug\net8.0\Veiculos.sourcelink.json
